@@ -52,7 +52,7 @@ Using Python programming in Jupyter Notebook, the process of data cleaning to ex
 3. Merging multiple tables into single table
 - Address, BNF and GP tables are combined into a single table after some initial data cleaning.
 4. Adding additional data relevant for analysis
-- Information related to NADP (National Average Discount Percentage) and Counties based on postcode information are added accordingly from external sources, before merging with previously combined dataset.
+- Information related to NADP (National Average Discount Percentage) and Counties based on postcode information are added accordingly from external sources, before merging with previously combined dataset. (Figures are obtained from the following website: https://www.nhsbsa.nhs.uk/prescription-data/understanding-our-data/financial-forecasting)
 
 ---
 
