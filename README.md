@@ -4,6 +4,8 @@ This project focuses on deploying an interactive visualization dashboard that pr
 
 In recent years, the spending cost of drugs prescribed by GP practices rises every year, and this figure certainly increased exponentially with the rapid production of immunological products and vaccines. By designing an interactive dashboard for cost analysis, NHS would be able to obtain hidden insights related to the cost of drugs prescribed by GP practices from different levels of detail and the government would also be able to use this dashboard for allocating their annual budget, especially for NHS to cover the cost of drugs prescribed.
 
+For more details, refer to the following website for access to the interactive Tableau dashboard: https://public.tableau.com/app/profile/yi.xian.liaw/viz/NHSCostAnalysisDashboard/CostAnalysisbyCountyPracticeID
+
 ---
 
 ## Project Goals & Objectives
@@ -88,8 +90,6 @@ Here are some of the main insights that can be derived from the given dataset:
 <b>6. Outlier analysis of Average actual cost for Immunological Products and Vaccines Chapter in Swansea</b>
 
 ![image](https://user-images.githubusercontent.com/34255556/182286545-f74b6a7d-e537-4829-a718-ff4770c3f76e.png)
-
-For more details about the insights derived, refer to the following website for access to the interactive Tableau dashboard: https://public.tableau.com/app/profile/yi.xian.liaw/viz/NHSCostAnalysisDashboard/CostAnalysisbyCountyPracticeID
 
 ---
 
