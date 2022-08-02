@@ -1,5 +1,7 @@
 # General_Practice_Performance_Analysis
 
+![image](https://user-images.githubusercontent.com/34255556/182289230-57b08140-d3bb-4f42-bed5-687723f79a9c.png)
+
 This project focuses on deploying an interactive visualization dashboard that provides useful insights into the cost of drugs prescribed by general practitioners from various perspectives for budget planning and drug-approval decision making. Given that NHS is a non-profit organization that seeks to provide free healthcare for everyone, NHS obtains its funds for covering the cost of prescribed drugs by general practitioners from general taxation. 
 
 In recent years, the spending cost of drugs prescribed by GP practices rises every year, and this figure certainly increased exponentially with the rapid production of immunological products and vaccines. By designing an interactive dashboard for cost analysis, NHS would be able to obtain hidden insights related to the cost of drugs prescribed by GP practices from different levels of detail and the government would also be able to use this dashboard for allocating their annual budget, especially for NHS to cover the cost of drugs prescribed.
